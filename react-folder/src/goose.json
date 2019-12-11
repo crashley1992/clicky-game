@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "casual goose",
+        "image": "./assests/images/causual-goose.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "detective goose",
+        "image": "./assests/images/detective-goose.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "detective goose",
+        "image": "./assests/images/hipster-goose.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "honking goose",
+        "image": "./assests/images/honking-goose.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "hungry goose",
+        "image": "./assests/images/hungry-goose.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "knifing around goose",
+        "image": "./assests/images/knifing-around-goose.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "laundry goose",
+        "image": "./assests/images/laundry-goose.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "mixed tape goose",
+        "image": "./assests/images/mixed-tape-goose.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "romatic goose",
+        "image": "./assests/images/romantic-goose.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "sneaky goose",
+        "image": "./assests/images/sneaky-goose.png",
+        "clicked": false
+    }
+]
