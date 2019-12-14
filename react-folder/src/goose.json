@@ -1,62 +1,74 @@
 [
     {
         "id": 1,
-        "name": "casual goose",
+        "name": "Casual Goose",
         "image": "./assests/images/causual-goose.jpg",
         "clicked": false
     },
     {
         "id": 2,
-        "name": "detective goose",
+        "name": "Detective Goose",
         "image": "./assests/images/detective-goose.jpg",
         "clicked": false
     },
     {
         "id": 3,
-        "name": "detective goose",
+        "name": "Hispter Goose",
         "image": "./assests/images/hipster-goose.jpg",
         "clicked": false
     },
     {
         "id": 4,
-        "name": "honking goose",
+        "name": "Honking Goose",
         "image": "./assests/images/honking-goose.jpg",
         "clicked": false
     },
     {
         "id": 5,
-        "name": "hungry goose",
+        "name": "Hungry Goose",
         "image": "./assests/images/hungry-goose.jpg",
         "clicked": false
     },
     {
         "id": 6,
-        "name": "knifing around goose",
+        "name": "Knifing Around Goose",
         "image": "./assests/images/knifing-around-goose.jpg",
         "clicked": false
     },
     {
         "id": 7,
-        "name": "laundry goose",
+        "name": "Laundry Goose",
         "image": "./assests/images/laundry-goose.jpg",
         "clicked": false
     },
     {
         "id": 8,
-        "name": "mixed tape goose",
+        "name": "Mixed Tape Goose",
         "image": "./assests/images/mixed-tape-goose.jpg",
         "clicked": false
     },
     {
         "id": 9,
-        "name": "romatic goose",
+        "name": "Romatic Goose",
         "image": "./assests/images/romantic-goose.jpg",
         "clicked": false
     },
     {
         "id": 10,
-        "name": "sneaky goose",
+        "name": "Sneaky Goose",
         "image": "./assests/images/sneaky-goose.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Sophisticated Goose",
+        "image": "./assests/images/sophisticated-goose.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Bully Goose",
+        "image": "./assests/images/bully-goose.jpg",
         "clicked": false
     }
 ]

@@ -3,10 +3,12 @@ import './cards.css';
 
 const Cards = (props) => {
     return(
- <div className="card">
-    <div className="img-container">
-      <strong>Name:{props.name}</strong> 
-        <img alt={props.name} src={props.image} />
+<div className="d-inline-flex p-2 bd-highlight">
+    <div className="card">
+        <div className="img-container">
+                <span><strong>Name: {props.name}</strong></span>
+            <img alt={props.name} src={props.image} id={props.id} onClick={ () => props.handleImageClick(props.id)} />
+        </div>
     </div>
 </div>
     )
