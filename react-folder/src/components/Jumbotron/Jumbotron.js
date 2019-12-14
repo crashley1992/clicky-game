@@ -1,5 +1,6 @@
 import React from 'react';
 import './jumbotron.css';
+//import gif from './goose.gif';
 
 const Jumbotron = () => {
     return(
